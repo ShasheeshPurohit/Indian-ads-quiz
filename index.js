@@ -12,11 +12,11 @@ var score = 0;
 
 var highScores = [
   {
-    name: "Shreya",
+    name: "Hrithik",
     score: 8
   },
   {
-    name: "Pratiksha",
+    name: "Tiger",
     score: 7,
   }
 ]
